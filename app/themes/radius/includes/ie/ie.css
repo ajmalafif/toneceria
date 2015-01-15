@@ -1,0 +1,15 @@
+.block-post {
+	width: 280px !important;
+	height: 280px !important;
+	margin-bottom: 30px;
+	margin-right: 30px;
+}
+
+.home-portfolio-right .block-post {
+	width: 155px !important;
+	height: 155px !important;
+}
+
+.desktop .nav-top ul > li {
+	min-height: 0;
+}

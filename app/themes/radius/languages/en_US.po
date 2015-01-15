@@ -1,0 +1,545 @@
+# Copyright (C) 2014 Mike McAlister
+# This file is distributed under the GNU General Public License v2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Radius WordPress Theme 4.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/radius\n"
+"POT-Creation-Date: 2014-03-25 03:18:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:15 index.php:38
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: 404.php:18
+msgid ""
+"Sorry, but the page you are looking for has moved or no longer exists. "
+"Please use the search below, or the menu above to locate the missing page."
+msgstr ""
+
+#: archive-array-portfolio.php:57 portfolio.php:54
+msgid "Older Entries"
+msgstr ""
+
+#: archive-array-portfolio.php:60 portfolio.php:57
+msgid "Newer Entries"
+msgstr ""
+
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:27
+msgid "Join the conversation!"
+msgstr ""
+
+#: comments.php:27
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:27 includes/widgets/homepage-portfolio.php:97
+#: template-meta.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:27 includes/widgets/homepage-portfolio.php:97
+#: template-meta.php:15
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: customizer.php:25
+msgid "Select a page:"
+msgstr ""
+
+#: customizer.php:33
+msgid "Radius Styling"
+msgstr ""
+
+#: customizer.php:42
+msgid "Logo Upload"
+msgstr ""
+
+#: customizer.php:54
+msgid "Link Color"
+msgstr ""
+
+#: customizer.php:66
+msgid "Accent Color"
+msgstr ""
+
+#: customizer.php:78
+msgid "Custom CSS"
+msgstr ""
+
+#: functions.php:66
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:68
+msgid "Custom Menu"
+msgstr ""
+
+#: functions.php:172
+msgid "Older Posts"
+msgstr ""
+
+#: functions.php:176
+msgid "Newer Posts"
+msgstr ""
+
+#: functions.php:200
+msgid "Homepage Text Boxes"
+msgstr ""
+
+#: functions.php:202
+msgid ""
+"Widgets in this area will be shown as text boxes below the slider on the "
+"homepage."
+msgstr ""
+
+#: functions.php:208
+msgid "Homepage Mid Left"
+msgstr ""
+
+#: functions.php:210 functions.php:218
+msgid ""
+"Widgets in this area will be shown on the right side of the middle of the "
+"homepage."
+msgstr ""
+
+#: functions.php:216
+msgid "Homepage Mid Right"
+msgstr ""
+
+#: functions.php:224
+msgid "Homepage Portfolio Section"
+msgstr ""
+
+#: functions.php:226
+msgid "Widgets in this area will be shown in the homepage portfolio section."
+msgstr ""
+
+#: functions.php:232
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:234
+msgid "Widgets in this area will be shown on the sidebar of all pages."
+msgstr ""
+
+#: functions.php:240
+msgid "Footer"
+msgstr ""
+
+#: functions.php:242
+msgid ""
+"Widgets in this area will be shown own on the left side of the footer of all "
+"pages."
+msgstr ""
+
+#: functions.php:248
+msgid "Social Dashboard Links"
+msgstr ""
+
+#: functions.php:250
+msgid "Widgets in this area will be shown on the Social Dashboard drawer."
+msgstr ""
+
+#: functions.php:271
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:273
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:273
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:287
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:321
+msgid "Page %s"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:14
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:73
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:75
+msgid ""
+"Thanks for purchasing %1$s! We truly appreciate the support and the "
+"opportunity to share our work with you. Please visit the tabs below to get "
+"started setting up your theme!"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:82
+msgid "Help File"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:83
+msgid "License"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:84
+msgid "Latest Updates"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:87
+msgid "Support Forum &rarr;"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:108
+msgid ""
+"This help file feed seems to be temporarily down. You can view the help file "
+"on Array in the mean time."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:108
+msgid "Help File &rarr;"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:126
+msgid "Install the Array Toolkit"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:127
+msgid "The Array Toolkit is a plugin that adds various features to your theme."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:127
+msgid "requires the Array Toolkit to enable the following features:"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:131
+msgid "Portfolio Items"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:135
+msgid "Custom Galleries"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:140
+msgid "Slider Items"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:144
+msgid "Install Array Toolkit Plugin"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:152
+#: includes/admin/getting-started/getting-started.php:155
+msgid "Visit the Knowledge Base"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:153
+msgid ""
+"New to the WordPress world? Our Knowledge Base has over 20 video tutorials, "
+"from installing WordPress to working with themes and more."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:163
+msgid "Activate your license for seamless updates!"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:167
+msgid ""
+"Add your license key to get theme updates without leaving your dashboard! "
+"Find your license key in your Array Dashboard in the <a class=\"thickbox\" "
+"href=\"%s\">Downloads</a> section. Save your key and then click the Activate "
+"button."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:175
+msgid "Enter your license key:"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:179
+msgid "Save License Key"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:184
+msgid "Your license is active!"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:186
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:189
+msgid "License saved! Click to activate &rarr;"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:190
+msgid "Activate License"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:199
+msgid "Updating Your Theme"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:204
+msgid ""
+"Once your license key is activated, you can download and install theme "
+"updates by going to Appearance &rarr; Themes. A <a class=\"thickbox\" href="
+"\"%s\">notice</a> will be displayed when an update is available."
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:208
+msgid ""
+"The update process will grab the latest theme files from Array and replace "
+"your current theme. Any changes you&apos;ve made to the theme files will be "
+"overwritten, so be sure to back up your theme before updating!"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:216
+msgid "Latest Theme Updates"
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:247
+msgid ""
+" %1$s activated! Visit the <a href=\"%2$s\">Getting Started</a> page to view "
+"the help file, install the Array Toolkit or ask us a question. "
+msgstr ""
+
+#: includes/admin/getting-started/getting-started.php:249
+msgid "<a href=\"%1$s\">Hide this notice</a>"
+msgstr ""
+
+#: includes/admin/metabox/metabox.php:7
+msgid "Slide Link"
+msgstr ""
+
+#: includes/admin/metabox/metabox.php:14
+msgid "Where would you like your slide to link to?"
+msgstr ""
+
+#: includes/admin/metabox/metabox.php:37
+msgid "Video"
+msgstr ""
+
+#: includes/admin/metabox/metabox.php:65
+msgid ""
+"Add video to your page by entering the video's <a class=\"thickbox\" href="
+"\"%1$s\">embed code</a> in the box above (optional). "
+msgstr ""
+
+#: includes/admin/theme-updater/theme-updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:24
+msgid "Latest Work"
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:27
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:33
+msgid "Display your Portfolio and Blog posts in a tabbed widget."
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:40
+msgid "Radius Homepage Portfolio and Blog"
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:97 template-meta.php:15
+msgid "No Comments"
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:169
+msgid "Portfolio Section Title:"
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:173
+msgid "Portfolio Section Text"
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:177
+msgid "Portfolio Item Count:"
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:181
+msgid "Blog Section Title:"
+msgstr ""
+
+#: includes/widgets/homepage-portfolio.php:185
+msgid "Blog Item Count:"
+msgstr ""
+
+#: includes/widgets/social-dash.php:33
+msgid "Show your social network links in a dropdown below the top menu."
+msgstr ""
+
+#: includes/widgets/social-dash.php:40
+msgid "Radius Social Dash Widget"
+msgstr ""
+
+#: includes/widgets/social-dash.php:100
+msgid "Link Icon"
+msgstr ""
+
+#: includes/widgets/social-dash.php:119
+msgid "Link:"
+msgstr ""
+
+#: includes/widgets/social-dash.php:124
+msgid "Link Text:"
+msgstr ""
+
+#: includes/widgets/text-column.php:17
+msgid "Radius Text Column Widget"
+msgstr ""
+
+#: includes/widgets/text-column.php:24
+msgid "Radius Text Column"
+msgstr ""
+
+#: includes/widgets/text-column.php:82
+msgid "Column Title"
+msgstr ""
+
+#: includes/widgets/text-column.php:87
+msgid "Column Title Link"
+msgstr ""
+
+#: includes/widgets/text-column.php:92
+msgid ""
+"Column Icon (Please visit http://fortawesome.github.io/Font-Awesome/ to pick "
+"an icon. Simply enter the name of the icon to use. For example: fa-user)"
+msgstr ""
+
+#: includes/widgets/text-column.php:97
+msgid "Column Content"
+msgstr ""
+
+#: index.php:23
+msgid "Search Results for: %s"
+msgstr ""
+
+#: index.php:26
+msgid "Tag"
+msgstr ""
+
+#: index.php:29 index.php:32 index.php:35
+msgid "Archive"
+msgstr ""
+
+#: index.php:41 taxonomy-categories.php:13
+msgid "Category"
+msgstr ""
+
+#: index.php:44
+msgid "Author: %s"
+msgstr ""
+
+#: index.php:67
+msgid "Read More"
+msgstr ""
+
+#: index.php:71
+msgid "Read more..."
+msgstr ""
+
+#: page.php:12 template-gallery.php:26
+msgid "Permalink to %s"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search the site"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: single-array-portfolio.php:36
+msgid "Project Details"
+msgstr ""
+
+#: single-array-portfolio.php:45
+msgid "<span>Next:</span> %title"
+msgstr ""
+
+#: single-array-portfolio.php:46
+msgid "<span>Previous:</span> %title"
+msgstr ""
+
+#: single.php:27
+msgid "Read more &rarr;"
+msgstr ""
+
+#: template-meta.php:19
+msgid "Share"
+msgstr ""
+
+#: template-meta.php:21
+msgid "Twitter"
+msgstr ""
+
+#: template-meta.php:25
+msgid "Facebook"
+msgstr ""
+
+#: template-meta.php:29
+msgid "Google+"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Radius WordPress Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://array.is/themes/radius"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Super Clean Responsive Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Mike McAlister"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://array.is"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full-Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Homepage"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Portfolio"
+msgstr ""
