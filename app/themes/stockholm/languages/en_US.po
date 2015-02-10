@@ -2331,7 +2331,7 @@ msgstr ""
 #: includes/shortcodes/shortcodes.php:2354
 #: includes/shortcodes/shortcodes.php:2621
 #@ qode
-msgid "Sort Portfolio:"
+msgid "Sort Products:"
 msgstr ""
 
 #: includes/shortcodes/shortcodes.php:2505

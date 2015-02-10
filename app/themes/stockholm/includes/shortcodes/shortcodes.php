@@ -2385,7 +2385,7 @@ if (!function_exists('portfolio_list')) {
 				$html .= "<div class='filter_outer ".$filter_align."'>";
 					$html .= "<div class='filter_holder ".$portfolio_filter_class."'><ul>";
 						if($disable_filter_title != "yes"){
-							$html .= "<li class='filter_title'><span>".__('Sort Portfolio:', 'qode')."</span></li>";
+							$html .= "<li class='filter_title'><span>".__('Sort Products:', 'qode')."</span></li>";
 						}
 						if($type == 'masonry_with_space'){
 							$html .= "<li class='filter' data-filter='*'><span>" . __('All', 'qode') . "</span></li>";
