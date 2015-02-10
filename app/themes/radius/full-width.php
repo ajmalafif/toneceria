@@ -12,7 +12,7 @@ get_header(); ?>
 								<div class="blog-post clearfix">
 									<div class="blog-inside">
 										<div class="page-title">
-											<h1><?php the_title(); ?></h1>
+											<!-- <h1><?php the_title(); ?></h1> -->
 										</div>
 
 										<?php if ( has_post_thumbnail() ) { ?>

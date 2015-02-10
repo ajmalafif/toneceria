@@ -1,0 +1,122 @@
+1.5
+- Added WooCommerce 2.2.7 compatibility
+- Fixed bug with space between portfolio items on smaller screen when portfolio type is without space
+- Fixed bug with video background for full screen sections template
+- Fixed bug with skill title for team shortcode
+- Fixed bug with date for latest posts shortcode
+- Fixed bug with sliders arrow navigation when boxed layout is enabled
+- Fixed bug with lightbox dependency for portfolio list shortcode when type is standard
+
+1.4
+- Added compatibility for Gravity Forms plugin
+- Added Gravity Forms tab to Select Options
+- Added portfolio custom lighbox content (image/video) field in Portfolio -> Portfolio Single -> Select General
+- Added option to choose submenu display behavior for left menu area (hover and click event)
+- Added number of rows option for latest posts shortcode
+- Added hide author email option in Select Options -> Blog -> Blog Single -> Show Blog Author
+- Added logo height field for mobile header in Select Options -> Logo
+- Added select slider height field for mobile devices in Select Options -> Select Slider
+- Added compatibility for YITH WooCommerce Zoom Magnifier plugin
+- Added option to choose one column number for latest posts shortcode -> boxes type
+- Added hide category option in Select Options -> Portfolio -> Portfolio List
+- Added filter order by option for portfolio list shortcode
+- Added sidebar layout option in Select Options -> Portfolio -> Portfolio Single
+- Added custom sidebar option in Select Options -> Portfolio -> Portfolio Single
+- Added sidebar layout option in Portfolio -> Portfolio Single -> Select Sidebar
+- Added custom sidebar option in Portfolio -> Portfolio Single -> Select Sidebar
+- Improved accordion and toogle responsive for mobile devices
+- Improved animated icons with text responsive
+- Improved testimonials appear functionality
+- Updated LayerSlider to version 5.3.2
+- Updated documentation
+- Removed unnecessary field separator under title from Select Options -> Title
+- Fixed bug with woocommerce dropdown cart widget height when widget is set to top header
+- Fixed bug with posrtfolio slider navigation for Firefox Mac
+- Fixed bug with contact form 7 input and textarea placeholder color
+- Fixed bug with number of words for blog lists
+- Fixed bug with full screen sections scroll on mobile devices Chrome
+- Fixed bug with full screen sections when left menu area is enabled
+- Fixed bug with select search and WPML
+- Fixed bug with select slide text shadow
+- Fixed bug with theme options when used with multisite enabled
+- Fixed bug with vertical menu dropdowns on touch devices
+- Fixed bug with blockquote changing style from select options
+- Fixed bug with portfolio slider position when boxed layout is enabled
+- Fixed bug with logo position when logo is centered
+- Fixed bug with font awesome icon border for icon with text shortcode
+- Fixed bug with select slider navigation when transparent left menu is enabled
+- Fixed bug with youtube/vimeo videos on portfolio single when portfolio single layout is gallery and lighbox is enabled
+- Fixed bug with image proportions option for portfolio single gallery layout when single upload is used for images
+
+1.3
+- Added performance improvement functionality
+- Added scroll amount field to hide menu in 'Fixed Advanced' header type
+- Added logo height field for mobile devices in Select Options -> Logo
+- Added hide date option in Select Options -> Blog -> Blog Single
+- Added hide category option in Select Options -> Blog -> Blog Single
+- Added disable filter title option in Portfolio list shortcode
+- Added support for 2 columns WooCommerce recent products shortcode
+- Added portfolio image overlay color transparnecy field in Select Options -> Portfolio
+- Improved accordion and toogle responsive
+- Improved call to action responsive
+- Improved h2 responsive
+- Improved select slider buttons responsive
+- Improved latest posts title responsive
+- Improved sticky divided header type JavaScript function 
+- Improved portfolio single images resize functionality
+- Improved side area functionality
+- Updated documentation
+- Updated LayerSlider to version 5.3.1
+- Updated po/mo language files
+- Removed 'parent' and 'top' options from target attributes in shortcodes
+- Fixed bug with total label color for dropdown cart widget when First main color is set
+- Fixed bug with meta description on category pages
+- Fixed bug with quick edit with custom post type
+- Fixed bug with left and right sticky header type and logo link
+- Fixed bug with team shortcode social icon responsive when left menu area is enabled
+- Fixed bug with search result posts date
+- Fixed bug with navigation active style for testimonials shortcode
+- Fixed dependency of show title area for posts, pages and portfolios
+- Fixed bug with logo size on fixed scrolled header when logo is smaller then scrolled header height
+
+1.2
+- Added Image proportions field for Portfolio single -> Gallery type in Select General
+- Added Shop sorting style in Select Options -> WooCommerce
+- Added Interactive Banners style in Select Options -> Elements
+- Added Hide pagination field in Select Options -> Portfolio -> Portfolio Single
+- Added Link styles fields in Select Options -> Header -> Side Area
+- Improved Select Documentation file
+- Improved blog lists responsive
+- Improved Full Screen Sections template functionality and responsive
+- Updated LayerSlider to version 5.3.0
+- Fixed bug with logo top margin when Header type is Sticky Divided
+- Fixed bug with portfolio filter for Portfolio Pinterest and Masonry Without Space types
+- Fixed bug with portfolio single projects date
+- Fixed bug with notice on tags page
+- Fixed bug with title area on Archive, Category and Tag pages
+- Fixed bug with social icons in Footer when Footer Top Text style is set
+- Fixed bug with latest posts slash mark when First main color is set
+- Fixed portfolio slider sliding when links are rendered on portfolio items (mouse wheel is enabled)
+- Fixed bug with line height option for 1st level menu style in Select Options -> Fonts
+- Fixed bug with interactive banners rollover color
+- Fixed bug with title style changing in Select Options -> Header -> Side Area
+
+1.1.1
+- Improved Full Screen Sections template functionality and responsive
+- Updated WooCommerce template files for 2.2.3 compatibility
+- Fixed bug with post comments date
+
+1.1
+- Added WooCommerce input fields style in Select Options -> WooCommerce
+- Improved Select Documentation file
+- Updated Visual Composer to version 4.3.4
+- Fixed bug with YOAST and page transitions error on home page
+- Fixed bug with WooCommerce plus/minus input hover color
+- Fixed bug with WooCommerce checkout page style
+- Fixed bug with Process shortcode styles
+- Fixed bug with scrolling of left menu
+- Fixed bug with mobile header rendering when sticky with left and right menu is set in Select Options -> Header
+- Fixed bug with paragprah style in Select Options -> Fonts
+- Fixed bug with posts date
+- Fixed bug with text transform field in Select Slider for text and subtitle style
+- Fixed bug with portfolio list for Firefox Mac
